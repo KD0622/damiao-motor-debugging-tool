@@ -3,6 +3,7 @@
 [中文](./README.md) | [EN](./README.en.md)
 
 This document matches the files that currently exist in this directory and is intended for direct distribution of the packaged DMTool binaries.
+In addition, the `supporting_documents` folder contains files obtained from Gitee. Specifically, it includes Gitee documents related to DAMIAO and the DM2325 datasheet, among other items.
 
 ## Contents
 
