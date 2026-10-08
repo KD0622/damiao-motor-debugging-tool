@@ -1,0 +1,269 @@
+[submodule "SDK/电机SDK"]
+	path = SDK/电机SDK
+	url = git@gitee.com:kit-miao/motor-sdk.git
+	branch = master
+
+[submodule "SDK/电机控制例程"]
+	path = SDK/电机控制例程
+	url = git@gitee.com:kit-miao/motor-control-routine.git
+	branch = master
+
+[submodule "SDK/模块通信SDK/DM_DeviceSDK"]
+	path = SDK/模块通信SDK/DM_DeviceSDK
+	url = git@gitee.com:kit-miao/dm-device-sdk.git
+	branch = master
+
+[submodule "SDK/模块通信SDK/gs_usb_drives"]
+	path = SDK/模块通信SDK/gs_usb_drives
+	url = git@gitee.com:kit-miao/gs-usb-drivers.git
+	branch = master
+
+[submodule "电机产品/分立系列/DM-S2325-1EC"]
+	path = 电机产品/分立系列/DM-S2325-1EC
+	url = git@gitee.com:kit-miao/dm-s2325-1-ec.git
+	branch = master
+
+[submodule "电机产品/分立系列/DM-S3519-1EC"]
+	path = 电机产品/分立系列/DM-S3519-1EC
+	url = git@gitee.com:kit-miao/DM-S3519-1EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J10010-2EC"]
+	path = 电机产品/关节电机/DM-J10010-2EC
+	url = git@gitee.com:kit-miao/DM-J10010-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J10010L-2EC"]
+	path = 电机产品/关节电机/DM-J10010L-2EC
+	url = git@gitee.com:kit-miao/DM-J10010L-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J10422P-2EC"]
+	path = 电机产品/关节电机/DM-J10422P-2EC
+	url = git@gitee.com:kit-miao/DM-J10422P-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J3507-2EC"]
+	path = 电机产品/关节电机/DM-J3507-2EC
+	url = git@gitee.com:kit-miao/DM-J3507-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J4310-2EC"]
+	path = 电机产品/关节电机/DM-J4310-2EC
+	url = git@gitee.com:kit-miao/DM-J4310-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J4310P-2EC"]
+	path = 电机产品/关节电机/DM-J4310P-2EC
+	url = git@gitee.com:kit-miao/dm-j4310-p-2-ec
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J4340-2EC"]
+	path = 电机产品/关节电机/DM-J4340-2EC
+	url = git@gitee.com:kit-miao/DM-J4340-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J4340P-2EC"]
+	path = 电机产品/关节电机/DM-J4340P-2EC
+	url = git@gitee.com:kit-miao/DM-J4340P-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J6006-2EC"]
+	path = 电机产品/关节电机/DM-J6006-2EC
+	url = git@gitee.com:kit-miao/DM-J6006-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J6216L-2EC"]
+	path = 电机产品/关节电机/DM-J6216L-2EC
+	url = git@gitee.com:kit-miao/dm-j6216-l-2-ec.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J6216P-2EC"]
+	path = 电机产品/关节电机/DM-J6216P-2EC
+	url = git@gitee.com:kit-miao/dm-j6216-p-2-ec.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J6248P-2EC"]
+	path = 电机产品/关节电机/DM-J6248P-2EC
+	url = git@gitee.com:kit-miao/DM-J6248P-2EC
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J8006-2EC"]
+	path = 电机产品/关节电机/DM-J8006-2EC
+	url = git@gitee.com:kit-miao/DM-J8006-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J8009-2EC"]
+	path = 电机产品/关节电机/DM-J8009-2EC
+	url = git@gitee.com:kit-miao/DM-J8009-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J8009P-2EC"]
+	path = 电机产品/关节电机/DM-J8009P-2EC
+	url = git@gitee.com:kit-miao/DM-J8009P-2EC.git
+	branch = master
+
+[submodule "电机产品/关节电机/DM-J8520P-2EC"]
+	path = 电机产品/关节电机/DM-J8520P-2EC
+	url = git@gitee.com:kit-miao/DM-J8520P-2EC.git
+	branch = master
+
+[submodule "电机产品/轮毂电机/DM-H3510"]
+	path = 电机产品/轮毂电机/DM-H3510
+	url = git@gitee.com:kit-miao/DM-H3510.git
+	branch = master
+
+[submodule "电机产品/轮毂电机/DM-H55"]
+	path = 电机产品/轮毂电机/DM-H55
+	url = git@gitee.com:kit-miao/DM-H55.git
+	branch = master
+
+[submodule "电机产品/轮毂电机/DM-H6215"]
+	path = 电机产品/轮毂电机/DM-H6215
+	url = git@gitee.com:kit-miao/DM-H6215.git
+	branch = master
+
+[submodule "电机产品/轮毂电机/DM-H65"]
+	path = 电机产品/轮毂电机/DM-H65
+	url = git@gitee.com:kit-miao/DM-H65.git
+	branch = master
+
+[submodule "电机产品/谐波电机/DM-JH11-51_101-2EC"]
+	path = 电机产品/谐波电机/DM-JH11-51_101-2EC
+	url = git@gitee.com:kit-miao/DM-JH11-51_101-2EC
+	branch = master
+
+[submodule "电机产品/谐波电机/DM-JH14-51_101-2EC"]
+	path = 电机产品/谐波电机/DM-JH14-51_101-2EC
+	url = git@gitee.com:kit-miao/DM-JH14-51_101-2EC.git
+	branch = master
+
+[submodule "电机产品/谐波电机/DM-JH17-51_101-2EC"]
+	path = 电机产品/谐波电机/DM-JH17-51_101-2EC
+	url = git@gitee.com:kit-miao/DM-JH17-51_101-2EC.git
+	branch = master
+
+[submodule "电机产品/直驱电机/DM-D5730-1EC"]
+	path = 电机产品/直驱电机/DM-D5730-1EC
+	url = git@gitee.com:kit-miao/dm-D5730-1-ec
+	branch = master
+
+[submodule "电机产品/直驱电机/DM-D5730-1EE"]
+	path = 电机产品/直驱电机/DM-D5730-1EE
+	url = git@gitee.com:kit-miao/DM-D5730-1EE
+	branch = master
+
+[submodule "电机产品/中空电机/DM-G6220"]
+	path = 电机产品/中空电机/DM-G6220
+	url = git@gitee.com:kit-miao/DM-G6220.git
+	branch = master
+
+[submodule "电机产品/中空电机/DM-G8518"]
+	path = 电机产品/中空电机/DM-G8518
+	url = git@gitee.com:kit-miao/DM-G8518.git
+	branch = master
+
+[submodule "工具和上位机/USB2CANFD通用升级工具"]
+	path = 工具和上位机/USB2CANFD通用升级工具
+	url = git@gitee.com:kit-miao/usb2canfd-upgrade-tool.git
+	branch = master
+
+[submodule "工具和上位机/电机调试上位机"]
+	path = 工具和上位机/电机调试上位机
+	url = git@gitee.com:kit-miao/motor-debugging-tool.git
+	branch = master
+
+[submodule "固件/电机固件"]
+	path = 固件/电机固件
+	url = git@gitee.com:kit-miao/motor-firmware.git
+	branch = master
+
+[submodule "开发板/边缘计算板/orin-board"]
+	path = 开发板/边缘计算板/orin-board
+	url = git@gitee.com:kit-miao/orin-board.git
+	branch = master
+
+[submodule "开发板/控制板/DM-FC01"]
+	path = 开发板/控制板/DM-FC01
+	url = git@gitee.com:kit-miao/dm-fc01.git
+	branch = master
+
+[submodule "开发板/控制板/DM-MC01"]
+	path = 开发板/控制板/DM-MC01
+	url = git@gitee.com:kit-miao/dm-mc01.git
+	branch = master
+
+[submodule "开发板/控制板/DM-MC02"]
+	path = 开发板/控制板/DM-MC02
+	url = git@gitee.com:kit-miao/dm-mc02.git
+	branch = master
+
+[submodule "开发板/控制板/Spine"]
+	path = 开发板/控制板/Spine
+	url = git@gitee.com:kit-miao/spine.git
+	branch = master
+
+[submodule "开发板/驱动板"]
+	path = 开发板/驱动板
+	url = git@gitee.com:kit-miao/damao-motor-drive-board.git
+	branch = master
+
+[submodule "开源项目/agv"]
+	path = 开源项目/agv
+	url = git@gitee.com:kit-miao/agv.git
+	branch = master
+
+[submodule "开源项目/balance_robot"]
+	path = 开源项目/balance_robot
+	url = git@gitee.com:kit-miao/balance_robot.git
+	branch = master
+
+[submodule "开源项目/bipedal-robot"]
+	path = 开源项目/bipedal-robot
+	url = git@gitee.com:kit-miao/bipedal-robot.git
+	branch = master
+
+[submodule "开源项目/open-dog"]
+	path = 开源项目/open-dog
+	url = git@gitee.com:kit-miao/open-dog
+	branch = master
+
+[submodule "开源项目/wheel-legged"]
+	path = 开源项目/wheel-legged
+	url = git@gitee.com:kit-miao/wheel-legged.git
+	branch = master
+
+[submodule "开源项目/7-axis-harmonic-drive-robotic-arm"]
+	path = 开源项目/7-axis-harmonic-drive-robotic-arm
+	url = git@gitee.com:kit-miao/7-axis-harmonic-drive-robotic-arm.git
+	branch = master
+
+[submodule "模块/传感器模块/DM-IMU"]
+	path = 模块/传感器模块/DM-IMU
+	url = git@gitee.com:kit-miao/dm-imu.git
+	branch = master
+
+[submodule "模块/其他模块"]
+	path = 模块/其他模块
+	url = git@gitee.com:kit-miao/other-modules.git
+	branch = master
+
+[submodule "模块/通信模块/DM-LinkX-4C"]
+	path = 模块/通信模块/DM-LinkX-4C
+	url = git@gitee.com:kit-miao/dm-linkx-4c.git
+	branch = master
+
+[submodule "模块/通信模块/USB2CAN"]
+	path = 模块/通信模块/USB2CAN
+	url = git@gitee.com:kit-miao/usb-2-can.git
+	branch = master
+
+[submodule "模块/通信模块/USB2CANFD"]
+	path = 模块/通信模块/USB2CANFD
+	url = git@gitee.com:kit-miao/usb2canfd.git
+	branch = master
+
+[submodule "模块/通信模块/USB2CANFD-Dual"]
+	path = 模块/通信模块/USB2CANFD-Dual
+	url = git@gitee.com:kit-miao/usb2canfd-dual.git
+	branch = master
