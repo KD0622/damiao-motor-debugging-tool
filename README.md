@@ -118,7 +118,7 @@ sudo usermod -aG uucp $USER
 
 ## 関連ドキュメント
 
-- 詳細な使用説明：`DMTool ホストソフトウェア説明書.pdf`
+- 詳細な使用説明：`DMTool PC用ソフトウェア取扱説明書.pdf`
 - 変更履歴：[`CHANGELOG.md`](./CHANGELOG.md)
 
 ## バージョン
@@ -136,8 +136,8 @@ sudo usermod -aG uucp $USER
 Qt ライブラリ：GNU Lesser General Public License version 2.1 (LGPLv2.1) または version 3 (LGPLv3) に準拠しています。使用されているモジュールには、`QtCore`、`QtGui`、`QtSerialPort`、`QtCore5Compat`、`QtSql`、`QtOpenGL` が含まれます。
 
 Copyright (C) 2025 The Qt Company Ltd. All rights reserved.
-Qwt 库：遵循 GNU Lesser General Public License version 2.1 (LGPLv2.1) 协议。
+Qwt ライブラリ：GNU Lesser General Public License バージョン 2.1 (LGPLv2.1) に準拠しています。
 
-libusb 库：遵循 GNU Lesser General Public License version 2.1 (LGPLv2.1) 协议。
+libusb ライブラリ：GNU Lesser General Public License バージョン 2.1 (LGPLv2.1) に準拠しています。
 
-用户可按上述开源协议要求获取、修改和重新分发对应第三方组件源码。当前目录中的程序通过动态链接方式使用这些库，以满足相关许可证要求。
+ユーザーは、上記のオープンソースライセンスの要件に従い、対応するサードパーティ製コンポーネントのソースコードを取得、変更、および再配布することができます。現在のディレクトリにあるプログラムは、関連するライセンスの要件を満たすため、これらのライブラリを動的リンク方式で利用しています。
