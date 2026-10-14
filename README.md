@@ -116,26 +116,26 @@ sudo usermod -aG uucp $USER
 - `arm64` ディレクトリは、Apple Silicon Mac 向けです。
 - 現在のディレクトリ内の `.app` には、実行に必要なフレームワークとリソースファイルがすでに含まれています。
 
-## 配套文档
+## 関連ドキュメント
 
-- 详细使用说明：`DMTool上位机软件说明书.pdf`
-- 更新记录：[`CHANGELOG.md`](./CHANGELOG.md)
+- 詳細な使用説明：`DMTool ホストソフトウェア説明書.pdf`
+- 変更履歴：[`CHANGELOG.md`](./CHANGELOG.md)
 
-## 版本
+## バージョン
 
-- 当前目录中的 DMTool 版本：`2.1.6.7`
+- 現在のディレクトリにある DMTool のバージョン：`2.1.6.7`
 
-#### 版权与第三方协议
+#### 著作権およびサードパーティのライセンス
 
-1. **软件版权**
-本软件为闭源软件，版权归达妙科技有限公司所有。
+1. **ソフトウェアの著作権**
+本ソフトウェアはクローズドソースソフトウェアであり、著作権は達妙科技有限公司に帰属します。
 
-2. **第三方组件声明**
-本软件核心程序为专有软件。开发过程中使用了遵循开源协议的开源库，具体包括：
+2. **サードパーティ製コンポーネントに関する声明**
+本ソフトウェアのコアプログラムはプロプライエタリソフトウェアです。開発過程では、オープンソースライセンスに準拠したオープンソースライブラリが使用されています。具体的には以下の通りです：
 
-Qt 库：遵循 GNU Lesser General Public License version 2.1 (LGPLv2.1) 或 version 3 (LGPLv3) 协议。使用模块包括 `QtCore`、`QtGui`、`QtSerialPort`、`QtCore5Compat`、`QtSql`、`QtOpenGL`。
+Qt ライブラリ：GNU Lesser General Public License version 2.1 (LGPLv2.1) または version 3 (LGPLv3) に準拠しています。使用されているモジュールには、`QtCore`、`QtGui`、`QtSerialPort`、`QtCore5Compat`、`QtSql`、`QtOpenGL` が含まれます。
+
 Copyright (C) 2025 The Qt Company Ltd. All rights reserved.
-
 Qwt 库：遵循 GNU Lesser General Public License version 2.1 (LGPLv2.1) 协议。
 
 libusb 库：遵循 GNU Lesser General Public License version 2.1 (LGPLv2.1) 协议。
