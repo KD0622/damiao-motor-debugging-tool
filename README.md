@@ -1,6 +1,6 @@
 # DMTool
 
-[日本文](./README.md) | [EN](./README.en.md)
+[日本語](./README.md) | [EN](./README.en.md)
 
 このドキュメントは、現在のディレクトリ内に実際に存在するファイルに基づいて作成されており、直接配布される DMTool のインストールパッケージおよび実行パッケージに適用されます。
 また、supporting_documentsにはGiteeから入手されるファイルを含んでいます。具体的には、DAMIAOに関するGiteeとDM2325のデータシートなどを含んでいます。
@@ -32,7 +32,7 @@
 説明：
 
 - 現在のディレクトリには、`x86_64`版の Windowsインストールパッケージのみが用意されています。
-- デバイスドライバ、権限、またはシリアルポートへのアクセスに関する問題が発生した場合は、まず `DMTool ホストコンピュータ用ソフトウェアマニュアル.pdf` を参照してください。
+- デバイスドライバ、権限、またはシリアルポートへのアクセスに関する問題が発生した場合は、まず `DMTool PC用ソフトウェア取扱説明書.pdf` を参照してください。
 
 ## Linux
 
@@ -41,35 +41,35 @@
 - `Linux/x86_64/DMTool-v2.1.6.7-x86_64.AppImage`
 - `Linux/x86_64/arch_lib_install.sh`
 
-### 通用运行步骤
+### 一般的な実行手順
 
-1. 进入 `Linux/x86_64/`
-2. 为 AppImage 增加可执行权限：
+1. `Linux/x86_64/` ディレクトリに移動します。
+2. AppImage に実行権限を付与します：
 
 ```bash
 chmod +x DMTool-v2.1.6.7-x86_64.AppImage
 ```
 
-3. 运行程序：
+3. プログラムを実行する：
 
 ```bash
 ./DMTool-v2.1.6.7-x86_64.AppImage
 ```
 
-### Arch Linux 额外依赖
+### Arch Linux の追加依存関係
 
-若在 Arch Linux 或兼容发行版上缺少运行库，先执行：
+Arch Linux または互換性のあるディストリビューションでライブラリが不足している場合は、まず次のコマンドを実行してください：
 
 ```bash
 chmod +x arch_lib_install.sh
 ./arch_lib_install.sh
 ```
 
-然后重新运行 AppImage。
+その後、AppImageを再実行してください。
 
-### USB 设备权限
+### USBデバイスの権限
 
-若程序无法访问 USB/CAN 设备，先确认设备信息：
+プログラムがUSB/CANデバイスにアクセスできない場合は、まずデバイス情報を確認してください：
 
 ```bash
 lsusb
